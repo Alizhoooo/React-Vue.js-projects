@@ -54,6 +54,4 @@ Key files and directories:
   - `tailwind.config.js`: Tailwind CSS configuration
   - `tsconfig.json`: TypeScript configuration
 
-## License
-This project is licensed under the MIT License.
 # REACT-VUE
